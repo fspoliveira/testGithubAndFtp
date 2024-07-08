@@ -1,0 +1,32 @@
+# Ignore the Git config file
+.gitconfig
+
+# Ignore the Git hooks directory
+.git/hooks
+
+# Ignore Git logs
+logs
+*.log
+
+# Ignore Git temporary files
+*.tmp
+*.temp
+
+# Ignore Git history files
+*.history
+
+# Ignore Git merge files
+*.orig
+*.merge_file
+
+# Ignore Git patch files
+*.patch
+
+# Ignore Git index lock file
+index.lock
+
+# Ignore Git packed refs
+packed-refs
+
+# Ignore Git packed objects
+objects.pack
